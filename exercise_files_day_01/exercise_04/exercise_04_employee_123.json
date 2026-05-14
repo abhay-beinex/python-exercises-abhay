@@ -1,0 +1,14 @@
+{
+    "employee_id": "EMP123",
+    "name": "Priya Nair",
+    "department": "Engineering",
+    "role": "engineer",
+    "permissions": [
+        "read",
+        "write"
+    ],
+    "location": "Kochi",
+    "joining_date": "2022-03-15",
+    "manager_id": "EMP045",
+    "active": false
+}

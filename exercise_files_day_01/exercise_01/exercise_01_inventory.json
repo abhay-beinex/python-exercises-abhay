@@ -1,0 +1,14 @@
+[
+  { "item": "Bolts (M8)", "qty": 12, "reorder_at": 50 },
+  { "item": "Steel Rods", "qty": 340, "reorder_at": 100 },
+  { "item": "Welding Wire", "qty": 8, "reorder_at": 30 },
+  { "item": "Safety Helmets", "qty": 5, "reorder_at": 20 },
+  { "item": "Hydraulic Seals", "qty": 200, "reorder_at": 75 },
+  { "item": "Lubricant Cans", "qty": 3, "reorder_at": 25 },
+  { "item": "Conveyor Belts", "qty": 15, "reorder_at": 10 },
+  { "item": "Circuit Breakers", "qty": 42, "reorder_at": 50 },
+  { "item": "Copper Wire (50m)", "qty": 90, "reorder_at": 40 },
+  { "item": "Paint Drums", "qty": 7, "reorder_at": 15 },
+  { "item": "Drill Bits Set", "qty": 60, "reorder_at": 20 },
+  { "item": "Gasket Sheets", "qty": 2, "reorder_at": 10 }
+]

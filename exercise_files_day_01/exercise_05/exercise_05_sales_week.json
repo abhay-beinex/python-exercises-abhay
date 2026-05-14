@@ -1,0 +1,12 @@
+[
+  { "product": "Wireless Keyboard", "units_sold": 134, "unit_price": 1299.00 },
+  { "product": "USB-C Hub", "units_sold": 89, "unit_price": 1899.00 },
+  { "product": "Laptop Stand", "units_sold": 210, "unit_price": 849.00 },
+  { "product": "Noise Cancelling Headphones", "units_sold": 47, "unit_price": 4999.00 },
+  { "product": "Webcam HD 1080p", "units_sold": 165, "unit_price": 2499.00 },
+  { "product": "Mechanical Mouse", "units_sold": 98, "unit_price": 1599.00 },
+  { "product": "Monitor Light Bar", "units_sold": 73, "unit_price": 1199.00 },
+  { "product": "Desk Mat XL", "units_sold": 320, "unit_price": 699.00 },
+  { "product": "Portable SSD 1TB", "units_sold": 55, "unit_price": 5999.00 },
+  { "product": "Cable Management Kit", "units_sold": 241, "unit_price": 399.00 }
+]

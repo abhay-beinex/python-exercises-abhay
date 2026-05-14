@@ -1,0 +1,32 @@
+[
+    {
+        "id": "TXN1001",
+        "amount": 4500.0,
+        "currency": "INR",
+        "status": "completed"
+    },
+    {
+        "id": "TXN1004",
+        "amount": 8900.0,
+        "currency": "INR",
+        "status": "completed"
+    },
+    {
+        "id": "TXN1007",
+        "amount": 15000.0,
+        "currency": "INR",
+        "status": "completed"
+    },
+    {
+        "id": "TXN1009",
+        "amount": 3300.0,
+        "currency": "USD",
+        "status": "completed"
+    },
+    {
+        "id": "TXN1012",
+        "amount": 5500.0,
+        "currency": "INR",
+        "status": "completed"
+    }
+]

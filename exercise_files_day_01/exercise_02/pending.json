@@ -1,0 +1,20 @@
+[
+    {
+        "id": "TXN1002",
+        "amount": 1200.5,
+        "currency": "INR",
+        "status": "pending"
+    },
+    {
+        "id": "TXN1006",
+        "amount": 250.75,
+        "currency": "N/A",
+        "status": "pending"
+    },
+    {
+        "id": "TXN1010",
+        "amount": 0,
+        "currency": "INR",
+        "status": "pending"
+    }
+]
